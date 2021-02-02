@@ -1,2 +1,2 @@
-# frontend-mentor
-Challenge from frontendmentor.io
+# Description
+This is the challenge from frontendmentor.io
